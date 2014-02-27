@@ -24,7 +24,7 @@
   },
 
   "dependencies": {
-    "soupselect": ">= 0.2.0"
+    "soupselect": ">= 0.2.0",
     "htmlparser": ">= 1.7.7",
     "hubot":         ">= 2.6.0 < 3.0.0",
     "hubot-irc": ">= 0.2.1",
